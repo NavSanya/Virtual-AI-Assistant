@@ -6,7 +6,7 @@ Speech Recognition: Implement speech-to-text functionality using tools like Goog
 Speech Synthesis with Emotional Tone: Utilize text-to-speech (TTS) engines that can incorporate emotions, such as IBM Watson TTS, or explore custom TTS models like Tacotron 2 combined with WaveNet.
 
 3. Emotion Detection
-Text-based Emotion Detection: Use models like BERT, RoBERTa, or custom-trained models to detect emotions in text input.
+Text-based Emotion Detection: Use models like BERT, DistilBERT etc to detect emotions in text input. 
 Audio-based Emotion Detection: You can train models using libraries like librosa and frameworks like PyTorch to detect emotions from the user's tone of voice.
 
 4. Audio Response Generation
